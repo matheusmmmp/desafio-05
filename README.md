@@ -7,29 +7,28 @@
 </h3>
 
 <h4 align="center"> 
-	 Status: Acabado🚀
+	 Status: Concluído🚀
 </h4>
 
 <p align="center">
- <a href="#about">Sobre</a> •
- <a href="#features">Funcionalidades</a> •
- <a href="#how-it-works">Templates</a> • 
- <a href="#import">Funcionamento</a> • 
- <a href="#tech-stack">Tecnologias</a> • 
- <a href="#user-content-license">License</a>
+ <a href="#sobre">Sobre</a> •
+ <a href="#funcionalidades">Funcionalidades</a> •
+ <a href="#templates">Templates</a> • 
+ <a href="#como-executar-o-projeto">Como executar</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#licença">Licença</a>
 </p>
 
 
 ## ✎Sobre
 
 Essa é uma aplicação desenvolvida para testar os conhecimentos adquiridos durante a jornada de estudos na RocketSeat. Essa aplicação parte de um template disponibilizado pela instituição e apartir dele foi desenvolvido o consumo de dados do através do Prismic e a implementação de uma interface seguindo a documentação do layout disponibilizado no Figma.
-<h1 align="center">
-  <img alt="Imagem Demonstrativa 1" title="#Img1" src="https://user-images.githubusercontent.com/33897566/167714301-d049571f-b120-4aab-b16a-f44f494a979e.PNG" style="width: 700px;" />
-  <img alt="Imagem Demonstrativa 2" title="#Img2" src="https://user-images.githubusercontent.com/33897566/167714310-9b59fa48-6a40-46d2-9ac4-a04d5c00ec26.PNG" style="width: 700px;" />
-</h1>
 
 
-## ⛏Funcionalidades
+---
+
+## ⚙Funcionalidades
+
 - [x]  Estilizações global, comun e individuais;
 - [x]  Importação de fontes Google;
 - [x]  Paginação de posts;
@@ -41,7 +40,7 @@ Essa é uma aplicação desenvolvida para testar os conhecimentos adquiridos d
 
 ---
 
-## ✨Templates
+## 🎨Templates
 
 Para realizar esse desafio, foi utilizado um template do GitHub.
 
@@ -50,11 +49,19 @@ O template está disponível na seguinte URL: [Template Aplicação](https://git
 
 ### Interface da Aplicação
 
-O desafio contava com a obrigatoriedade de implementar a interface a partir de um layout disponibilizado nesse [link](https://www.figma.com/file/0Y26j0tf1K2WB5c1ja5hov/Desafios-M%C3%B3dulo-3-ReactJS/duplicate) no Figma.
+O desafio contava com a obrigatoriedade de implementar a interface a partir de um layout disponibilizado no Figma.
 
+<a href="https://www.figma.com/file/0Y26j0tf1K2WB5c1ja5hov/Desafios-M%C3%B3dulo-3-ReactJS/duplicate">
+  <img alt="Made by matheusmmmp" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
+
+<h1 align="center">
+  <img alt="Imagem Demonstrativa 1" title="#Img1" src="https://user-images.githubusercontent.com/33897566/167714301-d049571f-b120-4aab-b16a-f44f494a979e.PNG" style="width: 480px;" />
+  <img alt="Imagem Demonstrativa 2" title="#Img2" src="https://user-images.githubusercontent.com/33897566/167714310-9b59fa48-6a40-46d2-9ac4-a04d5c00ec26.PNG" style="width: 428px;" />
+</h1>
 
 ---
-## 🎲Funcionamento 
+## 🚀Como executar o projeto 
 
 ### Pré-requisitos
 
@@ -63,7 +70,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### Como Rodar 
+#### 🎲Como Rodar 
 
 ```bash
 # Clone este repositório
@@ -83,7 +90,7 @@ $ yarn dev
 
 ---
 
-## 🛠 Tecnologias
+## 🛠Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -97,8 +104,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   [Date-fns](https://date-fns.org/docs/Getting-Started);
 ---
 
-## License
+## 📝Licença
 
-This project is under the license [MIT](./LICENSE).
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Made with love by Matheus Pereira 👋🏽 [Get in Touch!](www.linkedin.com/in/matheus-de-medeiros-pereira-52b245140)
+Feito com ❤️ por Matheus Pereira 👋🏽 [Entre em Contato!](www.linkedin.com/in/matheus-de-medeiros-pereira-52b245140)

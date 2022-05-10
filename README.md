@@ -57,7 +57,7 @@ O desafio contava com a obrigatoriedade de implementar a interface a partir de u
 
 <h1 align="center">
   <img alt="Imagem Demonstrativa 1" title="#Img1" src="https://user-images.githubusercontent.com/33897566/167714301-d049571f-b120-4aab-b16a-f44f494a979e.PNG" style="width: 480px;" />
-  <img alt="Imagem Demonstrativa 2" title="#Img2" src="https://user-images.githubusercontent.com/33897566/167714310-9b59fa48-6a40-46d2-9ac4-a04d5c00ec26.PNG" style="width: 428px;" />
+  <img alt="Imagem Demonstrativa 2" title="#Img2" src="https://user-images.githubusercontent.com/33897566/167714310-9b59fa48-6a40-46d2-9ac4-a04d5c00ec26.PNG" style="width: 480px;" />
 </h1>
 
 ---

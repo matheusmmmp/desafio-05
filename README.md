@@ -22,7 +22,7 @@
 
 ## ✎Sobre
 
-Essa é uma aplicação desenvolvida para testar os conhecimentos adquiridos durante a jornada de estudos na RocketSeat. Essa aplicação parte de um template disponibilizado pela instituição e apartir dele foi desenvolvido o consumo de dados do através do Prismic e a implementação de uma interface seguindo a documentação do layout disponibilizado no Figma.
+Essa é uma aplicação desenvolvida para testar os conhecimentos adquiridos durante a jornada de estudos na RocketSeat. Essa aplicação parte de um template disponibilizado pela instituição e a partir dele foi desenvolvido o consumo de dados do através do Prismic e a implementação de uma interface seguindo a documentação do layout disponibilizado no Figma.
 
 
 ---
